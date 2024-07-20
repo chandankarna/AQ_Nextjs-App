@@ -385,7 +385,7 @@ const Indiamap = () => {
                     </OverlayTrigger>
                     <OverlayTrigger
                     placement="bottom"
-                    overlay={<Tooltip id="button-tooltip-2">Haryana </Tooltip>}
+                    overlay={<Tooltip id="button-tooltip-2">Gurgao, Haryana </Tooltip>}
                 >
                     <g className='web-dot'>
                         <circle cx="182.219" cy="195.218" r="7.349" fill="#1466A7"></circle>
